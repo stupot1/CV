@@ -41,11 +41,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Other Qualifications
 
-Scrumaster
-PRINCE2
-MSP
-Lean Six Sigma Green Belt
-LabView CLAD
+- Scrumaster
+- PRINCE2
+- MSP
+- Lean Six Sigma Green Belt
+- LabView CLAD
 
 ## Experience
 
